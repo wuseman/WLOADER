@@ -193,10 +193,3 @@ wsl --import gentoo C:\Users\salfter\gentoo\ C:\Users\salfter\Downloads\stage3-a
     * https://docs.microsoft.com/sv-se/windows-server/get-started/kmsclientkeys
     * https://gist.github.com/Minionguyjpro/d913b3931e844ad8ad9a758a4aca4b63
 
-### Get In Touch
-
-If you have problems, questions, ideas or suggestions please contact us by posting to wuseman@nr1.nu
-
-### Website
-
-    * https://wwww.nr1.nu
