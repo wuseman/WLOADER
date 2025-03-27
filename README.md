@@ -30,15 +30,19 @@ exit
 
 ## Upgrade Windows 10/11 to PRO by copy and paste below:
 
+```bash
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 slmgr /skms kms8.msguides.com
 slmgr /ato
+```
 
 ### Activate Windows 10 Enterprise 10.0.19043 N/A Build 19043, full example
 
+```bash
 slmgr.vbs /ipk DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 slmgr /skms kms8.msguides.com
 slmgr.vbs /ato
+```
 
 
 ### View the License Expiration Date
